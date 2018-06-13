@@ -1,26 +1,28 @@
-article{margin: 0 auto;
+article{
     border: 1px solid crimson;
     
 }
-hr{
+header{ padding: 1px;
 
 }
+
 h1{ color:#FF4500	;
     text-align:center;
     text-transform:uppercase;
-    font-family:oswald,serif;
-    font-size:80px;
-    text-shadow: 4px 4px 4px #aaa;
+    font-family:alegreya,serif;
+    font-size:90px;
+    text-shadow: 4px 4px 5px #CCCC00;
+            
 }
 
 h2{ color:#CCCC00;
     text-align:center;
     font-size:60px;
-    font-family: oswald, serif;
+    font-family: lato, serif;
 }
-    
+
 p{
-  font-family: eb-garamond, serif;
+  font-family: lato, serif;
 }
 
 body{
