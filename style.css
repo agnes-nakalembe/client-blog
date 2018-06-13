@@ -1,19 +1,21 @@
 article{margin: 0 auto;
-    border: 1px solid lightgrey;
+    border: 1px solid crimson;
     
 }
+hr{
 
-h1{ color: crimson;
+}
+h1{ color:#FF4500	;
     text-align:center;
     text-transform:uppercase;
     font-family:oswald,serif;
-    font-size:60px;
+    font-size:80px;
     text-shadow: 4px 4px 4px #aaa;
 }
 
-h2{ color:#999900;
+h2{ color:#CCCC00;
     text-align:center;
-    font-size:40px;
+    font-size:60px;
     font-family: oswald, serif;
 }
     
@@ -51,3 +53,4 @@ img{
 .bottom-link a{
     display: inline-block;
 }
+
